@@ -113,8 +113,8 @@ autocmd FileType yaml setlocal shiftwidth=2 tabstop=2
 " ---------------------------------------------------------------------
 runtime ./plug.vim
 if has ("unix")
-  let s:uname = system(uname -s)
-  if s:uname = "Darwin\n"
+  let s:uname = system("uname -s")
+  if s:uname == "Darwin\n"
     runtime ./macos.vim 
   endif
 endif
