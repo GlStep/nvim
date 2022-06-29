@@ -32,6 +32,7 @@ if has("nvim")
   Plug 'windwp/nvim-ts-autotag'
   Plug 'AndrewRadev/tagalong.vim'
   Plug 'mattn/emmet-vim'
+  Plug 'chrisbra/Colorizer'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }
