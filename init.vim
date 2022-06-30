@@ -109,6 +109,7 @@ autocmd FileType yaml setlocal shiftwidth=2 tabstop=2
 
 autocmd FileType python setlocal shiftwidth=4 tabstop=4
 autocmd FileType cpp setlocal shiftwidth=4 tabstop=4
+autocmd FileType rust setlocal shiftwidth=4 tabstop=4
 
 "}}}
 
