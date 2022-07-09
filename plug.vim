@@ -33,6 +33,7 @@ if has("nvim")
   Plug 'AndrewRadev/tagalong.vim'
   Plug 'mattn/emmet-vim'
   Plug 'chrisbra/Colorizer'
+  Plug 'sudar/vim-arduino-syntax'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }
