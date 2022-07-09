@@ -34,7 +34,7 @@ if has("nvim")
   Plug 'mattn/emmet-vim'
   Plug 'chrisbra/Colorizer'
   Plug 'sudar/vim-arduino-syntax'
-  Plug 'goolord/alpha-nvim'
+  Plug 'glepnir/dashboard-nvim'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }
