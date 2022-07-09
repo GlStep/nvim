@@ -34,9 +34,9 @@ if has("nvim")
   Plug 'mattn/emmet-vim'
   Plug 'chrisbra/Colorizer'
   Plug 'sudar/vim-arduino-syntax'
-  Plug 'glepnir/dashboard-nvim'
 endif
 
+Plug 'mhinz/vim-startify'
 Plug 'groenewege/vim-less', { 'for': 'less' }
 Plug 'kchmck/vim-coffee-script', { 'for': 'coffee' }
 
