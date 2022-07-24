@@ -34,6 +34,7 @@ if has("nvim")
   Plug 'sudar/vim-arduino-syntax'
 endif
 
+Plug 'cdelledonne/vim-cmake'
 Plug 'groenewege/vim-less', { 'for': 'less' }
 Plug 'kchmck/vim-coffee-script', { 'for': 'coffee' }
 
